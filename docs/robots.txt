@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madeofme.me/sitemap.xml
